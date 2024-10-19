@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Smit Ardeshana</h1>
-<h3 align="center">I'm a passionate Data Scientist with expertise in machine learning, natural language processing, and computer vision. I love turning complex data into actionable insights and developing models that make a real-world impact.</h3>
+<h1 align="center">Hi 👋, Myself Smit Ardeshana</h1>
+<h3 align="center">I’m a graduate student specializing in Data Science, passionate about leveraging data to solve complex problems and drive decision-making. My academic journey has equipped me with a strong foundation in , ETL, Data Warehouse and Pipeline, Machine Learning, Statistical Analysis, and Data Visualization.
+.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
